@@ -1,0 +1,34 @@
+One of the most important characteristics in the ‘Rojo Brillante’ persimmon is the
+firmness of its flesh. This quality makes the product more marketable as a firmer
+product is preferred by the consumers. This characteristic can be lost during the
+post-harvest process as a consequence of the time between the harvest and the
+consumption of the product, this deterioration in quality may even be faster as a
+consequence of a poor conservation process. To ensure the quality of the product
+and to maximize the benefits obtained from the fruit measures of the firmness of
+the persimmon are usually carried out, being this measure, at the moment,
+obtained with the usage of a texturometer, which at the end of the obtention of the
+firmness of the persimmon leaves the fruit fractured and, on doing this, impossible
+to sell. This measure is obtained by breaking the flesh of the persimmons by
+applying a force on the fruit, this means that this process can only be done to a
+small sample of the persimmons of each batch and, using this measures as an
+estimation, a global estimation is obtained to be applied to the whole batch,
+something that although is a viable approximation and is the way that this process
+is done nowadays in multiple industries, clashes with the reality that each sample
+is different.
+This research proposes the usage of Vis-NIR hyperspectral imaging and machine
+learning regression and classification models to estimate in two different ways the
+firmness of the persimmons in an individual non-destructive way. This is done
+using the foundations left by a previously carried research where different levels of
+firmness were found on persimmons. These classes can be used to tackle the
+problem as a classification problem, being this the first proposed way to measure
+the firmness of the persimmon. Using the force curve obtained with the
+texturometer a digital twin was proposed to carry a simulation of this instrument
+and, on doing this, transforming this into a regression problem.
+The methodology used on this research includes the usage of several machine
+learning methods (linear regressor, partial least squares, random forest, neural
+networks and convolutional neural networks) and the selection of the most
+important wavelengths for the task ahead.
+The results were promising in both the cases with an accuracy of 0.98 when using
+all the wavelengths measured for a Neural Network and a R² over 0.9 for both the
+max and the slope of the regressed force curve using a Convolutional Neural
+Network.

@@ -1,0 +1,31 @@
+# Experto 1
+
+Si cuando tenías 6 años tu hermana tenía la mitad de años que tú, entonces cuando tenías 6 años, tu hermana tenía 3 años (la mitad de 6).
+
+Ahora, si actualmente tienes 70 años, eso significa que han pasado 64 años desde que tenías 6 años (70 - 6 = 64). Por lo tanto, si tu hermana tenía 3 años cuando tenías 6 años, ahora ella tendría 64 + 3 = 67 años.
+
+# Experto 2
+
+Si cuando tenías 6 años tu hermana tenía la mitad de tu edad, entonces cuando tenías 6 años, ella tenía 3 años (la mitad de 6).
+
+Ahora, si tú tienes 70 años, y tu hermana tenía 3 años cuando tenías 6, eso significa que han pasado 70 - 6 = 64 años desde entonces.
+
+Por lo tanto, la edad actual de tu hermana sería 3 + 64 = 67 años.
+
+# Experto 3
+
+Si tenías 6 años cuando tu hermana tenía la mitad de tu edad, eso significa que en ese momento ella tenía 3 años. Ahora, si tú tienes 70 años, y en ese tiempo tu hermana tenía 3 años, entonces ella es 67 años menor que tú. Por lo tanto, la edad de tu hermana sería 70 - 67 = 3 años. Así que tu hermana tiene 3 años.
+
+# Experto 4
+
+Si tenías 6 años cuando tu hermana tenía la mitad de tu edad, significa que ella tenía 3 años en ese momento. Si ahora tienes 70 años, eso significa que han pasado 70 - 6 = 64 años desde entonces. Por lo tanto, tu hermana ahora tendría 3 + 64 = 67 años.
+
+# Experto 5
+
+Para resolver este problema, primero necesitamos entender la relación de edad entre tú y tu hermana. Cuando tenías 6 años, tu hermana tenía la mitad de tu edad, es decir, tenía 3 años menos que tú en ese momento.
+
+Ahora que tienes 70 años, eso significa que han pasado 70 - 6 = 64 años desde que tenías 6 años.
+
+Dado que tu hermana tenía 3 años menos que tú en ese momento, ahora ella tiene 64 - 3 = 61 años.
+
+Por lo tanto, tu hermana tiene 61 años.
